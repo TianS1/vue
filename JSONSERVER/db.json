@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "name": "vue",
+      "phone": "20190420",
+      "email": "20190420",
+      "xueli": "大专",
+      "scholl": "汕尾职业技术学院",
+      "zhiye": "web前端开发工程师",
+      "text": "正在努力靠近",
+      "id": 4
+    },
+    {
+      "name": "q",
+      "phone": "w",
+      "email": "w",
+      "xueli": "w",
+      "scholl": "w",
+      "zhiye": "w",
+      "text": "w",
+      "id": 6
+    },
+    {
+      "name": "aaa",
+      "phone": "sas",
+      "email": "asas",
+      "xueli": "ass",
+      "scholl": "sas",
+      "zhiye": "ss",
+      "text": "ss",
+      "id": 7
+    },
+    {
+      "name": "sfsf",
+      "phone": "sfsdf",
+      "email": "sfs",
+      "id": 8
+    },
+    {
+      "name": "ssss",
+      "phone": "dhh",
+      "email": "dffffffffffs",
+      "id": 9
+    },
+    {
+      "name": "q",
+      "phone": "q",
+      "email": "q",
+      "xueli": "q",
+      "id": 10
+    },
+    {
+      "name": "q",
+      "phone": "q",
+      "email": "q",
+      "xueli": "q",
+      "id": 11
+    }
+  ],
+  "password": [
+    {
+      "name": "apple",
+      "password": 123,
+      "id": 1
+    },
+    {
+      "name": "mic",
+      "password": 123456,
+      "id": 2
+    },
+    {
+      "name": "aaa",
+      "password": "aaaa",
+      "id": 3
+    },
+    {
+      "name": "q",
+      "password": "q",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "password": "a",
+      "id": 5
+    }
+  ],
+  "cheshi": [
+    {
+      "name": "vue",
+      "phone": "123000",
+      "email": "123000",
+      "xueli": "大专",
+      "id": 1
+    },
+    {
+      "name": "js",
+      "phone": "123000",
+      "email": "123000",
+      "xueli": "大专",
+      "id": 2
+    },
+    {
+      "name": "h5",
+      "phone": "123000",
+      "email": "123000",
+      "xueli": "大专",
+      "id": 3
+    },
+    {
+      "name": "css3",
+      "phone": "12456",
+      "email": "12456",
+      "xueli": "大专",
+      "id": 4
+    },
+    {
+      "name": "ww",
+      "phone": "aaa",
+      "email": "aaa",
+      "xueli": "dsa",
+      "id": 5
+    }
+  ]
+}
